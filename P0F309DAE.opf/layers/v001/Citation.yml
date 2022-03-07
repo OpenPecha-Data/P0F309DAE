@@ -1,4 +1,10 @@
 id: 0e58f82bc7f0463da3056ade54ddb1f4
 annotation_type: Citation
-revision: '00001'
-annotations: {}
+revision: '00002'
+annotations:
+  9f22f515196c40d7a7c12202d9a7fa89:
+    span:
+      start: 1096
+      end: 1493
+    metadata:
+      css_class_name: tibetan-citations-prose
